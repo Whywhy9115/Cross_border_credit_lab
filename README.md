@@ -25,7 +25,7 @@ This is a prototype, not a production credit bureau. Sensitive financial data is
 Clone the repository:
 
 ```bash
-git clone https://github.com/Whywhy9115/Cross-border-credit.git
+git clone https://github.com/Whywhy9115/Cross_border_credit_lab.git
 cd Cross-border-credit
 ```
 
