@@ -1,0 +1,23 @@
+{
+  "name": "cross-border-credit",
+  "version": "1.0.0",
+  "description": "Hardhat code demo for a cross-border blockchain credit record and dispute registry.",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "demo": "hardhat run scripts/runDemo.js",
+    "state": "hardhat run scripts/showState.js"
+  },
+  "keywords": [
+    "blockchain",
+    "hardhat",
+    "credit",
+    "smart-contracts"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.15"
+  }
+}
