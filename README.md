@@ -26,7 +26,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Whywhy9115/Cross_border_credit_lab.git
-cd Cross-border-credit
+cd Cross_border_credit_lab
 ```
 
 Install dependencies:
